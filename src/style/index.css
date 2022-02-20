@@ -32,7 +32,10 @@ h1{
      padding: 10px;
      color: rgb(0, 95, 173);
 }
-
+.icone{
+    width: auto;
+    height: auto;
+}
    
 @media only screen and (max-width: 991px){
     a{
