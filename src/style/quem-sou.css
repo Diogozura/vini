@@ -11,6 +11,7 @@
 }
 .me{
     width: 450px;
+    height: auto;
     border-radius: 10px;
 }
 .me>p{
